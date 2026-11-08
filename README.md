@@ -1,10 +1,12 @@
 Sistema de Biblioteca
 
-Descripción
+**Estudiante:** Daniel Lopez Gomez
+
+Descripción:
 
 Aplicación de consola desarrollada en Java para administrar los libros de una biblioteca.
 
-Funcionalidades
+Funcionalidades:
 
 Registrar y mostrar libros.
 
@@ -14,7 +16,7 @@ Buscar libros por código.
 
 Manejar errores de búsqueda.
 
-Clases
+Clases:
 
 Main: menú principal.
 
@@ -24,14 +26,14 @@ Biblioteca: administra los libros.
 
 LibroNoEncontradoException: excepción personalizada.
 
-Conceptos utilizados
+Conceptos utilizados:
 
 Clases, objetos, encapsulamiento, constructores, ArrayList, arreglos y excepciones.
 
-Ejecución
+Ejecución:
 
 Abrir Main.java en Visual Studio Code y ejecutar el método main.
 
-Tecnologías
+Tecnologías:
 
 Java, Visual Studio Code y Git.
